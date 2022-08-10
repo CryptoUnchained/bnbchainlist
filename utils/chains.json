@@ -135,19 +135,19 @@
   {
     "name": "CUBE-BSC application Sidechain Testnet",
     "chain": "BAS-CUBE",
-    "rpc": ["https://bas-cube-testnet.nodereal.io/"],
-    "faucets": ["https://bas-cube-testnet-faucet.nodereal.io/"],
+    "rpc": ["https://bas-cube-devnet.nodereal.io/"],
+    "faucets": ["https://bas-cube-devnet-faucet.nodereal.io/"],
     "nativeCurrency": {
       "name": "ITAMCUBE",
       "symbol": "CUBE",
       "decimals": 18
     },
     "infoURL": "https://docs.nodereal.io/nodereal/bas/introduce",
-    "chainId": 232,
+    "chainId": 923018,
     "explorers": [
       {
         "name": "blockscout-testnet",
-        "url": "https://bas-cube-testnet-explorer.nodereal.io/",
+        "url": "https://bas-cube-devnet-faucet.nodereal.io/",
         "standard": "EIP3091"
       }
     ]
